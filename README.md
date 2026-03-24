@@ -76,7 +76,7 @@ Seluniyaa follows a clean, modular architecture:
 ## Team
 
 Seluniyaa Team
-[Thiru](https://www.linkedin.com/in/thirumarangk-ai) and [Senba](https://tsuyokigeijutsu.artstation.com)
+[Mara](https://www.linkedin.com/in/thirumarangk-ai) and [Senba](https://tsuyokigeijutsu.artstation.com)
 
 Building the future of creative intelligence.
 
