@@ -2,6 +2,8 @@
 
 Seluniyaa is an AI-powered platform built for creators, builders, and AI-first teams. It brings intelligent interaction, persona generation, and real-time trend insights into one connected ecosystem.
 
+[Seluniyaa Platform](https://seluniyaa.vercel.app)
+
 ## Overview
 
 Most AI products work in isolation. Seluniyaa is designed to fix that fragmentation through a modular architecture where specialized tools can share context, credits, and intelligence.
