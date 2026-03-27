@@ -6,6 +6,15 @@ Seluniyaa is a multi-product AI platform designed to help creators, builders, an
 
 ---
 
+## 🚀 What This Project Demonstrates
+
+This project demonstrates:
+- Production-level AI system design
+- Modular backend architecture (FastAPI)
+- Multi-product platform thinking
+- RAG pipeline implementation
+- Scalable system design with shared infrastructure
+
 ## What is Seluniyaa?
 
 Seluniyaa is built to eliminate fragmentation across modern AI workflows. Instead of switching between disconnected tools, users operate within a unified ecosystem where intelligence, data, and execution are seamlessly connected.
@@ -102,4 +111,4 @@ Seluniyaa is built by:
 
 ## License
 
-All rights reserved. This repository represents the public-facing architecture and concept of Seluniyaa.
+All rights reserved. This repository represents the public-facing architecture and implementation of Seluniyaa.
